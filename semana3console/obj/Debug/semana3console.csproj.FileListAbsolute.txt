@@ -1,0 +1,7 @@
+C:\Users\octif\source\repos\semana3console\semana3console\bin\Debug\semana3console.exe.config
+C:\Users\octif\source\repos\semana3console\semana3console\bin\Debug\semana3console.exe
+C:\Users\octif\source\repos\semana3console\semana3console\bin\Debug\semana3console.pdb
+C:\Users\octif\source\repos\semana3console\semana3console\obj\Debug\semana3console.csproj.AssemblyReference.cache
+C:\Users\octif\source\repos\semana3console\semana3console\obj\Debug\semana3console.csproj.CoreCompileInputs.cache
+C:\Users\octif\source\repos\semana3console\semana3console\obj\Debug\semana3console.exe
+C:\Users\octif\source\repos\semana3console\semana3console\obj\Debug\semana3console.pdb
